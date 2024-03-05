@@ -19,4 +19,4 @@ This Hangman game project is a basic Java application that allows the user to pl
 
 ----- Contributing -----
 
-This Hangman game project was developed collaboratively by a group of 5 contributors. It took approximately 18 hours to complete. Contributions to improve the game or add new features are welcome! If you'd like to contribute, please fork the repository, make your changes, and submit a pull reques
+This Hangman game project was developed collaboratively by a group of 5 contributors. It took approximately 18 hours to complete.
